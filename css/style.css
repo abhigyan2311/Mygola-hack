@@ -1,0 +1,19 @@
+.toolbardemoBasicUsage md-toolbar md-icon.md-default-theme {
+  color: white; }
+.sbar{
+    width: 100%;
+    text-align: center;
+}
+.sicon{
+    color:dodgerblue;
+    font-size: 50px;
+}
+.htitle{
+    font-size: 40px;
+}
+.bg{
+    background-color: #F9F9F9;
+}
+.content{
+    margin: 30px 50px 30px 50px;
+}
