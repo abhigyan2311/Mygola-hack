@@ -4,15 +4,10 @@
   "dependencies": {
     "body-parser": "^1.13.2",
     "express": "^4.13.1",
-    "foursquare-venues": "0.0.3",
-    "foursquarevenues": "^1.0.0",
-    "fsq-venues": "0.0.1",
+    "http": "0.0.0",
     "https": "^1.0.0",
     "mongoose": "^4.1.0",
-    "node-foursquare": "^0.3.0",
-    "node-rest-client": "^1.5.1",
     "python-shell": "^0.1.0",
-    "request": "^2.60.0",
-    "restler": "^3.3.0"
+    "request": "^2.60.0"
   }
 }

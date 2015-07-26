@@ -10,10 +10,39 @@
 }
 .htitle{
     font-size: 40px;
+    color: #fff;
 }
 .bg{
     background-color: #303F9F;
+    height: auto;
+    width: auto;
 }
 .bodyContent{
     margin: 30px 50px 30px 50px;
+}
+.rating {
+    position: inherit;
+    top: 1em;
+    float: right;
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    font-size:30px;
+    color:#FFEB3B;
+    line-height:100px;
+    text-align:center;
+    background:#00796B;
+    hover:
+}
+blockquote.bstyle{
+font: 14px/22px normal helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 3px solid #ccc;
+}
+strong{
+    color: #455A64;
+    font-size: 18px;
 }
