@@ -1,4 +1,4 @@
-.toolbardemoBasicUsage md-toolbar md-icon.md-default-theme {
+.toolbar md-toolbar md-icon.md-default-theme {
   color: white; }
 .sbar{
     width: 100%;
@@ -12,8 +12,8 @@
     font-size: 40px;
 }
 .bg{
-    background-color: #F9F9F9;
+    background-color: #303F9F;
 }
-.content{
+.bodyContent{
     margin: 30px 50px 30px 50px;
 }
